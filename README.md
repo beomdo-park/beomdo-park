@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am an undergraduate researcher at [Eco AI Lab](https://sites.google.com/view/ecoai/introduction).  
   #### :fire: I aim to become a Data Scientist — and more broadly, an AI-powered problem solver who applies research and technology to real-world challenges. 
-  #### :mortar_board: Computer Engineering Student, Hanbat National University(HBNU)  
+  #### :mortar_board: 3rd-year Computer Engineering Student, Hanbat National University(HBNU)  
     
     
   
