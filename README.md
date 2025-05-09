@@ -9,11 +9,11 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am an undergraduate researcher at Eco AI Lab.<br/>
-  #### :fire: I aim to become a Data Scientist.<br/>
-  #### :mortar_board: Computer Engineering Student, Hanbat National University(HBNU)
-  <br/>
-  <br/>
+  #### :raising_hand: I am an undergraduate researcher at [Eco AI Lab](https://sites.google.com/view/ecoai/introduction).  
+  #### :fire: I aim to become a Data Scientist — and more broadly, an AI-powered problem solver who applies research and technology to real-world challenges. 
+  #### :mortar_board: Computer Engineering Student, Hanbat National University(HBNU)  
+    
+    
   
   ## 🧱 Tech Stack
   ### Language
@@ -41,10 +41,9 @@
   <br/>
   
   ### Currently Learning
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--postgresql-->
-  <img src="https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <!--PyTorch-->  <!--postgresql-->
+  - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  - [ADsP (Advanced Data Analytics Semi-Professional)](https://www.dataq.or.kr/www/sub/a_06.do#none)
   <br/>
   <br/>
   
