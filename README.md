@@ -53,6 +53,6 @@
 </p>
 </div>
 
-  ## 🤔 Contact  
+  ## Contact  
   #### email: pbeomdo@gmail.com
   
