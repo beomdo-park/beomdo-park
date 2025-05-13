@@ -45,8 +45,10 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beomdo-park)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beomdo-park)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beomdo-park&show_icons=true&theme=default" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomdo-park&layout=compact&theme=default" height="180" />
+</p>
 </div>
