@@ -46,12 +46,13 @@
   
   ## 🤔 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beomdo-park&show_icons=true&theme=dracula)" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomdo-park&layout=compact&show_icons=true&theme=dracula)" height="180" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=beomdo-park&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomdo-park&layout=compact&show_icons=true&theme=dracula" height="180" />
 </div>
+
+
+
 
   ## Contact  
   #### email: pbeomdo@gmail.com
