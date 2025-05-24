@@ -12,7 +12,7 @@
   #### I am an undergraduate researcher at [Eco AI Lab](https://sites.google.com/view/ecoai/introduction).  
   #### I aim to become a Data Scientist — and more broadly, an AI-powered problem solver who applies research and technology to real-world challenges. 
   #### 3rd-year Computer Engineering Student, Hanbat National University(HBNU)  
-  #### 📂 You can check out my portfolio [here](https://github.com/beomdo-park/Portfolio)  
+  #### 📂 You can check out my portfolios: [Blog](https://beomdo-park.github.io) and [Repository](https://github.com/beomdo-park/Portfolio)
     
     
   
@@ -51,6 +51,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomdo-park&layout=donut&show_icons=true&theme=dracula" height="180" />
 </div>
 
+## 📈 GitHub Trophies
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+   <img src="https://github-profile-trophy.vercel.app/?username=beomdo-park" height="180" />
+</div>
+
 
 ## 📬 Contact
-Email: [pbeomdo@gmail.com](mailto:pbeomdo@gmail.com)
+- [pbeomdo@gmail.com](mailto:pbeomdo@gmail.com)  
+
+
