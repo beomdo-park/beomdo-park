@@ -48,7 +48,8 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=beomdo-park&show_icons=true&theme=dracula" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomdo-park&layout=donut&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beomdo-park&layout=donut&show_icons=true&theme=dracula&hide=scss,css,html" height="180" />
+
 </div>
 
 ## 📈 GitHub Trophies
