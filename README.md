@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Reinforcement_Learning-448C8A?style=flat-square"/>
 </p>
 
-## 🏆 Activities
+## Activities
 
 | 기간 | 활동명 | 내용 | 장소 |
 |------------|------------|----------------------------------------|------------|
