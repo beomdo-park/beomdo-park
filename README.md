@@ -55,7 +55,7 @@
 | 2025.06.13 | [**데이터분석 준전문가(ADsP) 취득**](https://github.com/beomdo-park/Portfolio/tree/main/2025/ADsP.pdf) | 데이터 분석 기획 및 수행 실무자 자격 | - |
 | 25.04.07 ~ | **산학협력 프로젝트** | 자율주행 주차로봇 운영 소프트웨어 성능 테스트 및 최적화 |국립한밭대학교 SW중심대학사업단 |
 | 25.03.24 ~  | **소중한 JUMP-UP Labs** | AI(인공지능)를 활용한 산업체 전력 사용량 이상치 탐지 | 국립한밭대학교 SW중심대학사업단 |
-| 2025.02.05 ~ 02.07 | [**한국통신학회 동계종합학술발표회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0205_0207_KICS_Conference) | K-Means 군집화 알고리즘 기반 이상치 탐지 연구 | 강원도 용평리조트 |
+| 2025.02.05 ~ 02.07 | [**한국통신학회 동계종합학술발표회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0205_0207_KICS_Conference) | DBA K-Means 군집화 알고리즘 기반 화공산업 전력 사용량 이상치 탐지 | 강원도 용평리조트 |
 | 2025.01.16 ~ 01.21 | [**IRO 2024/25 세계대회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0116_0121_IRO) | 대회 진행요원 | 부산 벡스코 |
 
 
