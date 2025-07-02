@@ -47,16 +47,20 @@
 
 ## Activities
 
-| 기간 | 활동명 | 내용 | 장소 |
+| 기간 | 활동명 | 내용 | 기관(장소) |
 |--------|------------|----------------------------------------|--------------|
 | 2025.06.30 ~ 07.11 | 기업 인턴십 | - | [(주) 아군](https://argoon.net) |
 | 2025.06.24 ~ 06.27 | [**대한전자공학회 하계 종합학술대회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference) | 고속 푸리에 변환(FFT) 기반 주기 추출 및 윈도우 구성을 활용한 GELU CNN-GRU AE 모델의 산업 전력 시계열 이상치 탐지 | 롯데호텔 제주(중문) |
 | 2025.05.20 ~ 06.30 | [**ABC 프로젝트 멘토링**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0520_0630_ABC_Mentoring) | 산업 전력 소비량 이상치 검출 및 최적화 | 유클리드 소프트 |
 | 2025.06.13 | [**데이터분석 준전문가(ADsP) 취득**](https://github.com/beomdo-park/Portfolio/tree/main/2025/ADsP.pdf) | 데이터 분석 기획 및 수행 실무자 자격 | - |
+| 25.04.07 ~ | **산학협력 프로젝트** | 자율주행 주차로봇 운영 소프트웨어 성능 테스트 및 최적화 |국립한밭대학교 SW중심대학사업단 |
+| 25.03.24 ~  | **소중한 JUMP-UP Labs** | AI(인공지능)를 활용한 산업체 전력 사용량 이상치 탐지 | 국립한밭대학교 SW중심대학사업단 |
 | 2025.02.05 ~ 02.07 | [**한국통신학회 동계종합학술발표회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0205_0207_KICS_Conference) | K-Means 군집화 알고리즘 기반 이상치 탐지 연구 | 강원도 용평리조트 |
 | 2025.01.16 ~ 01.21 | [**IRO 2024/25 세계대회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0116_0121_IRO) | 대회 진행요원 | 부산 벡스코 |
 
-  
+
+
+
   
   ## 🤔 Github Stats
 
