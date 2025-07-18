@@ -60,7 +60,7 @@
 | 2025.03.24 ~  | **소중한 JUMP-UP Labs** | AI(인공지능)를 활용한 산업체 전력 사용량 이상치 탐지 | 국립한밭대학교 SW중심대학사업단 |
 | 2025.03.04 ~ 06.13 | **데이터사이언스(이상금 교수님) 실습조교 25-1학기** | 실습자료 제작 및 질의응답 관리 | 국립한밭대학교 컴퓨터공학과 |
 | 2025.02.05 ~ 02.07 | [**한국통신학회 동계종합학술발표회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0205_0207_KICS_Conference) | [DBA K-Means 군집화 알고리즘 기반 화공산업 전력 사용량 이상치 탐지](https://github.com/beomdo-park/Portfolio/tree/main/2025/0205_0207_KICS_Conference/%5B%EB%85%BC%EB%AC%B8%2CPPT%5DDBA%20K-Means%20%EA%B5%B0%EC%A7%91%ED%99%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EB%B0%98%20%ED%99%94%EA%B3%B5%EC%82%B0%EC%97%85%20%EC%A0%84%EB%A0%A5%20%EC%82%AC%EC%9A%A9%EB%9F%89%20%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80) | 강원도 용평리조트 |
-| 2025.01.16 ~ 01.21 | [**IRO 2024/25 세계대회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0116_0121_IRO) | 대회 진행요원 | 부산 벡스코 |
+| 2025.01.16 ~ 01.21 | [**IROC 2024/25 세계대회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0116_0121_IRO) | 대회 진행요원 | 부산 벡스코 |
 
 
 
