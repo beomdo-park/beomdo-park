@@ -49,7 +49,7 @@
 
 | 기간 | 활동명 | 내용 | 기관(장소) |
 |------|--------------|----------------------------------------|--------------|
-| 2026.01.20 ~ 01.27 | **AAAI-26 Student Abstract and Poster Program (Accept)** | **"Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries"** | AAAI-26 (Sands Expo & Convention Centre, Singapore) |
+| 2026.01.20 ~ 01.27 | **AAAI-26 Student Abstract and Poster Program (Accept)** | **"Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries"** | AAAI-26 (Singapore EXPO, Singapore) |
 | 2025.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회| 그래프 신경망 기반 강화학습을 통한 양자 배터리 초흡수 이득 활용 | 라한셀렉트 경주 |
 |2025|[A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data](https://www.mdpi.com/1996-1073/18/14/3720)(SCIE)|DBA K-Means 모델 부분(공저자)|MDPI journal energies|
 | 2025.06.30 ~ 07.11 | 기업 인턴십 | 자율주행 로봇 시뮬레이션 및 경로 최적화 (Gazebo 이용) | [(주) 아군](https://argoon.net) |
