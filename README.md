@@ -51,7 +51,7 @@
 |------|--------------|----------------------------------------|--------------|
 | 2026.01.20 ~ 01.27 | **AAAI-26 Student Abstract and Poster Program (Accept)** | **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries** | AAAI-26 (Singapore EXPO, Singapore) |
 | 2025.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회| 그래프 신경망 기반 강화학습을 통한 양자 배터리 초흡수 이득 활용 | 라한셀렉트 경주 |
-| 2025.11.03 | 특허 출원 | 커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템 (출원번호: 10-2025-0162492) / 기여도 15% (출원 심사중) | 국립한밭대학교 산학협력단 |
+| 2025.11.03 | 특허 출원 | 커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템 / 기여도 15% (출원 심사중) | 국립한밭대학교 산학협력단 |
 |2025|[A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data](https://www.mdpi.com/1996-1073/18/14/3720)(SCIE)|DBA K-Means 모델 부분(공저자)|MDPI journal energies|
 | 2025.06.30 ~ 07.11 | 기업 인턴십 | 자율주행 로봇 시뮬레이션 및 경로 최적화 (Gazebo 이용) | [(주) 아군](https://argoon.net) |
 | 2025.06.24 ~ 06.27 | [**대한전자공학회 하계 종합학술대회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference) | [고속 푸리에 변환(FFT) 기반 주기 추출 및 윈도우 구성을 활용한 GELU CNN-GRU AE 모델의 산업 전력 시계열 이상치 탐지](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference) | 롯데호텔 제주(중문) |
