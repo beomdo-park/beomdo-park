@@ -85,6 +85,6 @@
 
 
 ## 📬 Contact
-- [pbeomdo at gmail com](mailto:pbeomdo@gmail.com)  
+- pbeomdo at gmail.com
 
 
