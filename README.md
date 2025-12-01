@@ -1,22 +1,36 @@
-<div>
+<div align="center">
   
-  <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
 
 <div>
-  <!--Body-->
+  </br>
+  <h2>👀 About Me</h2>
+  <table border="0" width="100%">
+    <tr>
+      <td width="70%" style="vertical-align: middle;">
+        <ul>
+          <li>I am an undergraduate researcher at <a href="https://sites.google.com/view/ecoai/introduction"><b>Eco AI Lab</b></a>.</li>
+          <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
+          <li>3rd-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
+        </ul>
+        <b>📂 You can check out my portfolios:</b>&nbsp; <a href="https://beomdo-park.github.io"><b>Blog</b></a> |&nbsp; <a href="https://github.com/beomdo-park/Portfolio"><b>Repository</b></a>
+      </td>
+      <td width="30%" align="center" style="vertical-align: middle;">
+        <a href="https://sites.google.com/view/ecoai/introduction">
+          <img src="https://github.com/user-attachments/assets/98519fd4-3bb6-4e5a-a831-2561cbfc41d3" width="260" alt="EcoAI Lab Logo" />
+        </a>
+        <br>
+        <a href="https://sites.google.com/view/ecoai/introduction"><b>홈페이지</b></a>
+      </td>
+    </tr>
+  </table>
   
-  ## 👀 About Me
-  #### I am an undergraduate researcher at [Eco AI Lab](https://sites.google.com/view/ecoai/introduction).  
-  #### I aim to become a Data Scientist — and more broadly, an AI-powered problem solver who applies research and technology to real-world challenges. 
-  #### 3rd-year Computer Engineering Student, Hanbat National University(HBNU)  
-  #### 📂 You can check out my portfolios: [Blog](https://beomdo-park.github.io) and [Repository](https://github.com/beomdo-park/Portfolio)
+</div>
     
-    
-  
-## Tech Stack
+
+## Tech Stack  
 
 #### Languages
 <p>
@@ -53,7 +67,7 @@
 | 2025.11.20 | 한국통신학회 추계종합학술발표회 학부생 캡스톤 경진대회| **(🏆우수상 수상)** 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 [박준성, 박범도, 장현석] | 라한셀렉트 경주 |
 | 2025.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 우수논문상(학부생) | **(🏆장려상 수상)** 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전(2저자) | 라한셀렉트 경주 |
 | 2025.10.31 | 특허 출원 | 커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템 / 기여도 15% (출원/심사중) | 국립한밭대학교 산학협력단 |
-| 25.10.30 | 컴퓨터공학과 포트폴리오경진대회 | 🏆우수상 | 국립한밭대학교 컴퓨터공학과 |
+| 2025.10.30 | 컴퓨터공학과 포트폴리오 경진대회 | 🏆우수상 | 국립한밭대학교 컴퓨터공학과 |
 | 2025.07.14 |[A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data](https://www.mdpi.com/1996-1073/18/14/3720)(SCIE)|DBA K-Means 모델 부분(공저자)|MDPI journal energies|
 | 2025.06.30 ~ 07.11 | 기업 인턴십 | 자율주행 로봇 시뮬레이션 및 경로 최적화 (Gazebo 이용) | [(주) 아군](https://argoon.net) |
 | 2025.06.24 ~ 06.27 | [**대한전자공학회 하계 종합학술대회**](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference) | [고속 푸리에 변환(FFT) 기반 주기 추출 및 윈도우 구성을 활용한 GELU CNN-GRU AE 모델의 산업 전력 시계열 이상치 탐지](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference) | 롯데호텔 제주(중문) |
