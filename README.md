@@ -11,7 +11,7 @@
     <tr>
       <td width="70%" style="vertical-align: middle;">
         <ul>
-          <li>I am an undergraduate researcher at <a href="https://sites.google.com/view/ecoai/introduction"><b>Eco AI Lab</b></a>.</li>
+          <li>I am an undergraduate researcher at <b>Eco AI Lab</b>.</li>
           <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
           <li>3rd-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
         </ul>
