@@ -22,7 +22,7 @@
           <img src="https://github.com/user-attachments/assets/98519fd4-3bb6-4e5a-a831-2561cbfc41d3" width="260" alt="EcoAI Lab Logo" />
         </a>
         <br>
-        <a href="https://sites.google.com/view/ecoai/introduction"><b>홈페이지</b></a>
+        <a href="https://sites.google.com/view/ecoai/introduction"><b>[Link]</b></a>
       </td>
     </tr>
   </table>
