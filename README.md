@@ -90,10 +90,10 @@
 
 </div>
 
-## 📈 GitHub Trophies
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<!-- ## 📈 GitHub Trophies -->
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 20px;">
    <img src="https://github-profile-trophy.vercel.app/?username=beomdo-park" height="180" />
-</div>
+</div> -->
 
 
 ## 📬 Contact
