@@ -60,7 +60,8 @@
 
 | 기간 | 활동명 | 내용 | 기관(장소) |
 |------|--------------|----------------------------------------|--------------|
-| 2026.01.20 ~ 01.27 | **AAAI-26 Student Abstract and Poster Program (Accept)** | **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries** | AAAI-26 (Singapore EXPO, Singapore) |
+| 2025.02.05 ~ 02.07 | **한국통신학회 동계종합학술발표회** | 물리 지식 기반 그래프 트랜스포머 강화학습을 이용한 강건한 양자 배터리 충전 최적화 | 강원도 용평리조트 |
+| 2026.01.20 ~ 01.27 | **AAAI-26 Student Abstract and Poster Program** | **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries** | AAAI-26 (Singapore EXPO, Singapore) |
 | 2025.11.20 | 한국통신학회 추계종합학술발표회 학부생 캡스톤 경진대회| **(🏆우수상 수상)** 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 [박준성, 박범도, 장현석] | 라한셀렉트 경주 |
 | 2025.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 우수논문상(학부생) | **(🏆장려상 수상)** 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전(2저자) | 라한셀렉트 경주 |
 | 2025.11.01 | 🪪 TOPCIT 정기평가 (수준 3 달성) | **수준3**: 기술 및 비즈니스 영역에 대한 지식과 스킬을 적용하여 과제를 해결할 수 있는 수준 | [정보통신기획평가원(IITP)](https://topcit.or.kr/introduction/topcit.do) |
