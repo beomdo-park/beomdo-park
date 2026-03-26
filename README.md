@@ -61,6 +61,7 @@
 | 기간 | 활동명 | 내용 | 기관(장소) |
 |------|--------------|----------------------------------------|--------------|
 | 2026.03.27 ~ 05.27 | **ABC 프로젝트 멘토링** | 양자오류정정(가주제) | 유클리드 소프트 |
+| 2026.03.01 | **Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints** | 2저자 | IEEE Transactions on Quantum Engineering, 2026 |
 | 2026.02.05 | **한국통신학회 동계종합학술발표회 아이디어 경진대회** | 실시간 네트워크 상태를 스스로 인지하고 서비스 품질을 능동적으로 최적화하는 통신 자율 Agentic AI 서비스 | 강원도 용평리조트 |
 | 2026.02.04 | **한국통신학회 동계종합학술발표회** | 물리 지식 기반 그래프 트랜스포머 강화학습을 이용한 강건한 양자 배터리 충전 최적화 | 강원도 용평리조트 |
 | 2026.01.20 ~ 01.27 | **AAAI-26 Student Abstract and Poster Program** | **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries** | AAAI-26 (Singapore EXPO, Singapore) |
