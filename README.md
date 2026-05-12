@@ -13,7 +13,7 @@
         <ul>
           <li>I am an undergraduate researcher at <b>Eco AI Lab</b>.</li>
           <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
-          <li>3rd-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
+          <li>4th-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
         </ul>
         <b>📂 You can check out my portfolios:</b>&nbsp; <a href="https://beomdo-park.github.io"><b>Blog</b></a> |&nbsp; <a href="https://github.com/beomdo-park/Portfolio"><b>Repository</b></a>
       </td>
