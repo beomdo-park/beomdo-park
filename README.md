@@ -81,7 +81,7 @@
 ## 🚀 Featured Project
 
 **ROQET — On-Device QEC Decoder SoC** &nbsp;<sub>(Capstone 2026)</sub>  
-Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 모델)** 를 **RTL→FPGA**로 구현하는 온디바이스 AI 가속기 SoC. <sub>`Verilog` · `Vivado` · `PyTorch`</sub>
+Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 모델)** 를 **RTL→FPGA**로 구현하는 온디바이스 AI 가속기 SoC.
 
 
 ## 🔬 Research Timeline
