@@ -15,7 +15,12 @@
           <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
           <li>4th-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
         </ul>
-        <b>📂 You can check out my portfolios:</b>&nbsp; <a href="https://beomdo-park.github.io"><b>Blog</b></a> |&nbsp; <a href="https://github.com/beomdo-park/Portfolio"><b>Repository</b></a> |&nbsp; <a href="https://orcid.org/0009-0005-9994-6369"><b>ORCID</b></a> |&nbsp; <a href="https://scholar.google.com/citations?user=MHh0xpwAAAAJ&hl=ko"><b>Google Scholar</b></a> |&nbsp; <a href="https://www.dbpia.co.kr/author/authorDetail?ancId=535212349"><b>DBpia</b></a>
+        <b>📂 You can check out my portfolios:</b><br/>
+        <a href="https://beomdo-park.github.io"><img src="https://img.shields.io/badge/Blog-222831?style=flat-square&logo=githubpages&logoColor=white"/></a>
+        <a href="https://github.com/beomdo-park/Portfolio"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <a href="https://orcid.org/0009-0005-9994-6369"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+        <a href="https://scholar.google.com/citations?user=MHh0xpwAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
+        <a href="https://www.dbpia.co.kr/author/authorDetail?ancId=535212349"><img src="https://img.shields.io/badge/DBpia-1E64C8?style=flat-square&logo=readme&logoColor=white"/></a>
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
         <a href="https://sites.google.com/view/ecoai/introduction">
