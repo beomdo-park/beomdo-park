@@ -64,6 +64,12 @@
 | 2026.03.01 | **Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints** | 2저자 | IEEE Transactions on Quantum Engineering, 2026 |
 | 2026.02.05 | **한국통신학회 동계종합학술발표회 아이디어 경진대회** | 실시간 네트워크 상태를 스스로 인지하고 서비스 품질을 능동적으로 최적화하는 통신 자율 Agentic AI 서비스 | 강원도 용평리조트 |
 | 2026.02.04 | **한국통신학회 동계종합학술발표회** | 물리 지식 기반 그래프 트랜스포머 강화학습을 이용한 강건한 양자 배터리 충전 최적화 | 강원도 용평리조트 |
+| 2026 | **DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable RL in Safety-Critical Continuous Processes** | 공저자(5저자) | IJCAI / ECAI 2026 (AI4Tech Track) |
+| 2026 | **Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial Reinforcement Learning** | 공저자(5저자), Oral | UDM @ KDD 2026 |
+| 2026 | **When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control** | 공저자(3저자) | GLOW @ IJCAI 2026 |
+| 2026 | **Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data** | 공저자(4저자) | AIDataSci @ KDD 2026 |
+| 2026 | **LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation** | 공저자(6저자) | AIDataSci @ KDD 2026 |
+| 2026 | **Surface code 기반 AI 프리디코더 / Rotational surface code 양자오류정정** | 각 1저자 / 2저자, Poster | 대한전자공학회 하계학술대회 (IEIE) |
 | 2026.01.20 ~ 01.27 | **AAAI-26 Student Abstract and Poster Program** | **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries** | AAAI-26 (Singapore EXPO, Singapore) |
 | 2025.11.20 | 한국통신학회 추계종합학술발표회 학부생 캡스톤 경진대회| **(🏆우수상 수상)** 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 [박준성, 박범도, 장현석] | 라한셀렉트 경주 |
 | 2025.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 우수논문상(학부생) | **(🏆장려상 수상)** 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전(2저자) | 라한셀렉트 경주 |
@@ -102,5 +108,3 @@
 
 ## 📬 Contact
 - pbeomdo at gmail.com
-
-
