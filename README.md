@@ -15,7 +15,7 @@
           <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
           <li>4th-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
         </ul>
-        <b>📂 You can check out my portfolios:</b>&nbsp; <a href="https://beomdo-park.github.io"><b>Blog</b></a> |&nbsp; <a href="https://github.com/beomdo-park/Portfolio"><b>Repository</b></a> |&nbsp; <a href="https://orcid.org/0009-0005-9994-6369"><b>ORCID</b></a> |&nbsp; <a href="https://scholar.google.com/citations?user=MHh0xpwAAAAJ&hl=ko"><b>Google Scholar</b></a>
+        <b>📂 You can check out my portfolios:</b>&nbsp; <a href="https://beomdo-park.github.io"><b>Blog</b></a> |&nbsp; <a href="https://github.com/beomdo-park/Portfolio"><b>Repository</b></a> |&nbsp; <a href="https://orcid.org/0009-0005-9994-6369"><b>ORCID</b></a> |&nbsp; <a href="https://scholar.google.com/citations?user=MHh0xpwAAAAJ&hl=ko"><b>Google Scholar</b></a> |&nbsp; <a href="https://www.dbpia.co.kr/author/authorDetail?ancId=535212349"><b>DBpia</b></a>
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
         <a href="https://sites.google.com/view/ecoai/introduction">
