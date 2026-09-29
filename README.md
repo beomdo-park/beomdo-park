@@ -118,8 +118,8 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 
 ### 📝 Patent
 
-- ![Patent](https://img.shields.io/badge/Patent-6e40c9?style=flat-square) **커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템** &nbsp;<sub>출원/심사중</sub>  
-  <sub>출원번호 10-2025-0162492 · 국립한밭대학교 산학협력단 · 기여도 15%</sub>
+- ![Patent](https://img.shields.io/badge/Patent-6e40c9?style=flat-square) ![등록](https://img.shields.io/badge/등록-2ea043?style=flat-square) **커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템**  
+  <sub>등록번호 10-3019388 (2026.09.09) · 출원 10-2025-0162492 · 국립한밭대학교 산학협력단 · 기여도 15%</sub>
 
 <details>
 <summary><b>📑 Co-authored Papers (12) — 펼쳐보기</b></summary>
@@ -176,8 +176,8 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=beomdo-park&show_icons=true&theme=dracula" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beomdo-park&layout=donut&show_icons=true&theme=dracula&hide=scss,css,html" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beomdo-park&theme=dracula" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beomdo-park&theme=dracula" height="180" />
 
 </div>
 
@@ -195,7 +195,7 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 <div align="center">
 
 <!-- UPDATED:START -->
-<sub>📅 Last updated: 2026-06-29 (KST)</sub>
+<sub>📅 Last updated: 2026-09-29 (KST)</sub>
 <!-- UPDATED:END -->
 
 </div>
