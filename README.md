@@ -85,11 +85,11 @@
 
 ## 🚀 Featured Project
 
-**ROQET — On-Device QEC Decoder SoC** &nbsp;<sub>(Capstone 2026)</sub>  
-Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 모델)** 를 **RTL→FPGA**로 구현하는 온디바이스 AI 가속기 SoC.
-
 **[QEnvS](https://github.com/beomdo-park/QEnvS) — Quantum Control Environments** &nbsp;<sub>(오픈소스)</sub>  
 강화학습과 최적제어를 위한 **물리 검증 양자 제어 환경** 라이브러리. 양자 배터리, 상태 전송, open system 모델을 해석해와 QuTiP로 교차검증한 JAX 기반 패키지.
+
+**ROQET — On-Device QEC Decoder SoC** &nbsp;<sub>(Capstone 2026)</sub>  
+Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 모델)** 를 **RTL→FPGA**로 구현하는 온디바이스 AI 가속기 SoC.
 
 
 ## 🔬 Research Timeline
