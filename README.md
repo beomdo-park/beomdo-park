@@ -198,7 +198,7 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 <div align="center">
 
 <!-- UPDATED:START -->
-<sub>📅 Last updated: 2026-09-29 (KST)</sub>
+<sub>📅 Last updated: 2026-10-14 (KST)</sub>
 <!-- UPDATED:END -->
 
 </div>
