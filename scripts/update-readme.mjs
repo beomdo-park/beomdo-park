@@ -104,7 +104,7 @@ function replaceBetween(src, key, content) {
 
 const [awardStart, awardEnd] = sectionRange('Awards & Certifications');
 const awards = lines.slice(awardStart + 1, awardEnd).filter((line) => line.startsWith('- 🏆')).length;
-const badge = (label, value) => `<img src="https://img.shields.io/badge/${encodeURIComponent(label.replaceAll('-', '--'))}-${value}-425aaa?style=flat-square" alt="${label}: ${value}" />`;
+const badge = (label, value, color = '405779') => `<img src="https://img.shields.io/badge/${encodeURIComponent(label.replaceAll('-', '--'))}-${value}-${color}?style=flat-square&amp;labelColor=30363d" alt="${label}: ${value}" />`;
 
 const statsTable = [
   '<div align="center">',
@@ -115,7 +115,7 @@ const statsTable = [
   '  </tr>',
   '  <tr>',
   '    <td align="left" valign="middle"><b>Achievements</b></td>',
-  `    <td align="left" valign="middle" width="410">${badge('Granted patents', patents)} ${badge('Awards', awards)}</td>`,
+  `    <td align="left" valign="middle" width="410">${badge('Granted patents', patents, '2b6f73')} ${badge('Awards', awards, '2b6f73')}</td>`,
   '  </tr>',
   '  <tr>',
   '    <td align="left" valign="middle"><b>Open source</b></td>',

@@ -46,11 +46,11 @@
 <table align="center">
   <tr>
     <td align="left" valign="middle"><b>Research</b></td>
-    <td align="left" valign="middle" width="410"><img src="https://img.shields.io/badge/Publications-20-425aaa?style=flat-square" alt="Publications: 20" /> <img src="https://img.shields.io/badge/First--author%20papers-5-425aaa?style=flat-square" alt="First-author papers: 5" /> <img src="https://img.shields.io/badge/SCIE%20papers-2-425aaa?style=flat-square" alt="SCIE papers: 2" /><br/><sub>8 international / 12 domestic<br/>First-author / SCIE counts are subsets of total.</sub></td>
+    <td align="left" valign="middle" width="410"><img src="https://img.shields.io/badge/Publications-20-405779?style=flat-square&amp;labelColor=30363d" alt="Publications: 20" /> <img src="https://img.shields.io/badge/First--author%20papers-5-405779?style=flat-square&amp;labelColor=30363d" alt="First-author papers: 5" /> <img src="https://img.shields.io/badge/SCIE%20papers-2-405779?style=flat-square&amp;labelColor=30363d" alt="SCIE papers: 2" /><br/><sub>8 international / 12 domestic<br/>First-author / SCIE counts are subsets of total.</sub></td>
   </tr>
   <tr>
     <td align="left" valign="middle"><b>Achievements</b></td>
-    <td align="left" valign="middle" width="410"><img src="https://img.shields.io/badge/Granted%20patents-1-425aaa?style=flat-square" alt="Granted patents: 1" /> <img src="https://img.shields.io/badge/Awards-4-425aaa?style=flat-square" alt="Awards: 4" /></td>
+    <td align="left" valign="middle" width="410"><img src="https://img.shields.io/badge/Granted%20patents-1-2b6f73?style=flat-square&amp;labelColor=30363d" alt="Granted patents: 1" /> <img src="https://img.shields.io/badge/Awards-4-2b6f73?style=flat-square&amp;labelColor=30363d" alt="Awards: 4" /></td>
   </tr>
   <tr>
     <td align="left" valign="middle"><b>Open source</b></td>
@@ -63,7 +63,7 @@
 ## Featured Project
 
 **[QEnvS](https://github.com/beomdo-park/QEnvS) — Quantum Control Environments**<br/>
-[![PyPI](https://img.shields.io/pypi/v/qenvs?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/qenvs/) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23359969-507596?style=flat-square)](https://doi.org/10.5281/zenodo.23359969) [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-64748b?style=flat-square)](https://github.com/beomdo-park/QEnvS/blob/main/LICENSE)<br/>
+[![PyPI](https://img.shields.io/pypi/v/qenvs?style=flat-square&logo=pypi&logoColor=white&color=405779&labelColor=30363d)](https://pypi.org/project/qenvs/) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23359969-2b6f73?style=flat-square&labelColor=30363d)](https://doi.org/10.5281/zenodo.23359969) [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-57606a?style=flat-square&labelColor=30363d)](https://github.com/beomdo-park/QEnvS/blob/main/LICENSE)<br/>
 강화학습과 최적제어를 위한 **물리 검증 양자 제어 환경** 라이브러리. 양자 배터리, 상태 전송, open system 모델을 해석해와 QuTiP로 교차검증한 JAX 기반 패키지.
 
 **ROQET — On-Device QEC Decoder SoC** &nbsp;<sub>(Capstone 2026)</sub>  
