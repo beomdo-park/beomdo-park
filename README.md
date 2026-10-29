@@ -46,7 +46,7 @@
 <table align="center">
   <tr>
     <td align="left" valign="middle"><b>Research</b></td>
-    <td align="left" valign="middle" width="410"><img src="https://img.shields.io/badge/Publications-20-405779?style=flat-square&amp;labelColor=30363d" alt="Publications: 20" /> <img src="https://img.shields.io/badge/First--author%20papers-5-405779?style=flat-square&amp;labelColor=30363d" alt="First-author papers: 5" /> <img src="https://img.shields.io/badge/SCIE%20papers-2-405779?style=flat-square&amp;labelColor=30363d" alt="SCIE papers: 2" /><br/><sub>8 international / 12 domestic<br/>First-author / SCIE counts are subsets of total.</sub></td>
+    <td align="left" valign="middle" width="410"><img src="https://img.shields.io/badge/Publications-20-405779?style=flat-square&amp;labelColor=30363d" alt="Publications: 20" /> <img src="https://img.shields.io/badge/First--author%20papers-5-405779?style=flat-square&amp;labelColor=30363d" alt="First-author papers: 5" /> <img src="https://img.shields.io/badge/SCIE%20papers-1-405779?style=flat-square&amp;labelColor=30363d" alt="SCIE papers: 1" /><br/><sub>8 international / 12 domestic<br/>First-author / SCIE counts are subsets of total.</sub></td>
   </tr>
   <tr>
     <td align="left" valign="middle"><b>Achievements</b></td>
@@ -77,7 +77,7 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 - ![AAAI](https://img.shields.io/badge/AAAI-1f6feb?style=flat-square) **Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries** — *Student Abstract & Poster Program*  
   <sub>**Beomdo Park**, H. Jang, J. Park, M. Baek, et al. · AAAI-26, Singapore · `1st author`</sub>
 
-- ![IEEE](https://img.shields.io/badge/IEEE_T--QE-00629b?style=flat-square) &nbsp;`SCIE` **Measurement-Informed Safe RL for Quantum Battery Charging via Harmonic-Syndrome Diagnostics & BMS Constraints**  
+- ![IEEE](https://img.shields.io/badge/IEEE_T--QE-00629b?style=flat-square) &nbsp;`ESCI` **[Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints](https://tqe.ieee.org/2026/03/03/measurement-informed-safe-reinforcement-learning-for-quantum-battery-charging-via-harmonic-syndrome-diagnostics-and-bms-constraints/)**  
   <sub>S. Lee, **Beomdo Park**, J. Park, H. Jang, et al. · IEEE Transactions on Quantum Engineering · `2nd author`</sub>
 
 - ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) **긍정, 부정 기여 분석과 선택적 호출 게이트 기반 표면 부호 AI 사전 디코더의 호출 보정** &nbsp;`Poster`  
@@ -111,10 +111,10 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 - ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석 · `2nd`
 - ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) 엣지 환경에서의 QEC를 위한 Hybrid 지식 증류 기반의 PTQ 경량화 파이프라인 설계 · `3rd`
 - ![IJCAI/ECAI](https://img.shields.io/badge/IJCAI%2FECAI-8957e5?style=flat-square) DEPLOY-RL: Active Boundary Discovery & Conservative Certification for Deployable RL in Safety-Critical Continuous Processes · `5th`
-- ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial RL `Oral` · `5th`
+- ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial RL · `5th`
 - ![IJCAI](https://img.shields.io/badge/IJCAI-8957e5?style=flat-square) When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control · `3rd`
-- ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data · `4th`
-- ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation · `6th`
+- ![KDD 2026 Workshop (AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `4th`
+- ![KDD 2026 Workshop (AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `6th`
 
 **2025**
 - ![Energies](https://img.shields.io/badge/Energies-bf8700?style=flat-square) `SCIE` A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data · `6th`
