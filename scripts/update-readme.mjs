@@ -1,5 +1,5 @@
 // scripts/update-readme.mjs
-// README.md의 "At a Glance" 스코어보드(2×2: 국제/국내 × Journal/Conf)와
+// README.md의 "At a Glance" 연구/성과/오픈소스 요약과
 // last-updated 타임스탬프를 마커 주석 사이에 자동으로 다시 써넣는다.
 // .github/workflows/update-stats.yml 에서 README.md push 시마다 실행됨.
 // 의존성 없음 (Node 18+).
@@ -102,12 +102,27 @@ function replaceBetween(src, key, content) {
   return src.replace(re, `$1\n${content}\n$2`);
 }
 
+const [awardStart, awardEnd] = sectionRange('Awards & Certifications');
+const awards = lines.slice(awardStart + 1, awardEnd).filter((line) => line.startsWith('- 🏆')).length;
+const badge = (label, value) => `<img src="https://img.shields.io/badge/${encodeURIComponent(label.replaceAll('-', '--'))}-${value}-425aaa?style=flat-square" alt="${label}: ${value}" />`;
+
 const statsTable = [
-  '|  | Journal | Conference | Total |',
-  '|:--|:--:|:--:|:--:|',
-  `| International | ${intlJ} | ${intlC} | **${intl}** |`,
-  `| Domestic | ${domJ} | ${domC} | **${dom}** |`,
-  `| Total | **${intlJ + domJ}** | **${intlC + domC}** | **${total}** |`,
+  '<div align="center">',
+  '<table align="center">',
+  '  <tr>',
+  '    <td align="left" valign="middle"><b>Research</b></td>',
+  `    <td align="left" valign="middle" width="410">${badge('Publications', total)} ${badge('First-author papers', first)} ${badge('SCIE papers', sci)}<br/><sub>${intl} international / ${dom} domestic<br/>First-author / SCIE counts are subsets of total.</sub></td>`,
+  '  </tr>',
+  '  <tr>',
+  '    <td align="left" valign="middle"><b>Achievements</b></td>',
+  `    <td align="left" valign="middle" width="410">${badge('Granted patents', patents)} ${badge('Awards', awards)}</td>`,
+  '  </tr>',
+  '  <tr>',
+  '    <td align="left" valign="middle"><b>Open source</b></td>',
+  '    <td align="left" valign="middle" width="410"><a href="https://github.com/beomdo-park/QEnvS"><img align="middle" src="https://raw.githubusercontent.com/beomdo-park/QEnvS/main/docs/assets/qenvs_logo_1200.png" alt="QEnvS" width="88" /></a>&nbsp;&nbsp; <b>Quantum control toolkit</b></td>',
+  '  </tr>',
+  '</table>',
+  '</div>',
 ].join('\n');
 
 const today = new Date().toLocaleDateString('sv-SE', { timeZone: 'Asia/Seoul' });
