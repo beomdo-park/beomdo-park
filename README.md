@@ -46,8 +46,8 @@
 |  | Journal | Conference | Total |
 |:--|:--:|:--:|:--:|
 | International | 2 | 6 | **8** |
-| Domestic | 0 | 11 | **11** |
-| Total | **2** | **17** | **19** |
+| Domestic | 0 | 12 | **12** |
+| Total | **2** | **18** | **20** |
 <!-- STATS:END -->
 
 ## 🛠️ Tech Stack
@@ -85,6 +85,10 @@
 
 ## 🚀 Featured Project
 
+<a href="https://github.com/beomdo-park/QEnvS">
+  <img align="right" src="https://raw.githubusercontent.com/beomdo-park/QEnvS/main/docs/assets/qenvs_logo_1200.png" alt="QEnvS logo" width="120" />
+</a>
+
 **[QEnvS](https://github.com/beomdo-park/QEnvS) — Quantum Control Environments** &nbsp;<sub>(오픈소스)</sub>  
 강화학습과 최적제어를 위한 **물리 검증 양자 제어 환경** 라이브러리. 양자 배터리, 상태 전송, open system 모델을 해석해와 QuTiP로 교차검증한 JAX 기반 패키지.
 
@@ -102,10 +106,10 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 - ![IEEE](https://img.shields.io/badge/IEEE_T--QE-00629b?style=flat-square) &nbsp;`SCIE` **Measurement-Informed Safe RL for Quantum Battery Charging via Harmonic-Syndrome Diagnostics & BMS Constraints**  
   <sub>S. Lee, **Beomdo Park**, J. Park, H. Jang, et al. · IEEE Transactions on Quantum Engineering · `2nd author`</sub>
 
-- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) **긍정·부정 기여 분석과 선택적 호출 게이트 기반 표면 부호 AI 사전 디코더의 호출 보정** &nbsp;`Poster`  
+- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) **긍정, 부정 기여 분석과 선택적 호출 게이트 기반 표면 부호 AI 사전 디코더의 호출 보정** &nbsp;`Poster`  
   <sub>**Beomdo Park**, H. Jang, J. Park, S. Lee · 대한전자공학회 하계종합학술대회 · `1st author`</sub>
 
-- ![KICS](https://img.shields.io/badge/KICS-0b7285?style=flat-square) **물리 지식 기반 그래프 트랜스포머 강화학습을 이용한 강건한 양자 배터리 충전 최적화** &nbsp;`Talk`  
+- ![KICS](https://img.shields.io/badge/KICS-0b7285?style=flat-square) **물리 지식 기반 그래프 트랜스포머 강화학습을 이용한 강건한 양자 배터리 충전 최적화 연구** &nbsp;`Oral`  
   <sub>**Beomdo Park**, J. Park, H. Jang, et al. · 한국통신학회 동계종합학술발표회 · 용평리조트 · `1st author`</sub>
 
 ### 🗓️ `2025`
@@ -114,28 +118,26 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
   <sub>**Beomdo Park**, H. Jang, J. Park, et al. · 한국통신학회 추계종합학술발표회 · `1st author`</sub>
 
 - 🏆 ![KICS](https://img.shields.io/badge/KICS-0b7285?style=flat-square) **단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전** — 우수논문상 **장려상**  
-  <sub>J. Park, **Beomdo Park**, H. Jang, et al. · 한국통신학회 추계종합학술발표회 · `2nd author`</sub>
+  <sub>J. Park, H. Jang, **Beomdo Park**, et al. · 한국통신학회 추계종합학술발표회 · `3rd author`</sub>
 
-- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) **FFT 기반 주기 추출·윈도우 구성을 활용한 GELU CNN-GRU AE 산업 전력 시계열 이상치 탐지** &nbsp;[📄](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference)  
+- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) **고속 푸리에 변환(FFT) 기반 주기 추출 및 윈도우 구성을 활용한 GELU CNN-GRU AE 모델의 산업 전력 시계열 이상치 탐지** &nbsp;[📄](https://github.com/beomdo-park/Portfolio/tree/main/2025/0624_0627_IEIE_Conference)  
   <sub>**Beomdo Park**, W. Kwon, C. Lee, T. Heo, S. Lee · 대한전자공학회 하계종합학술대회 · 제주 · `1st author`</sub>
 
-### 📝 Patent
-
-- ![Patent](https://img.shields.io/badge/Patent-6e40c9?style=flat-square) ![등록](https://img.shields.io/badge/등록-2ea043?style=flat-square) **커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템**  
-  <sub>등록번호 10-3019388 (2026.09.09) · 출원 10-2025-0162492 · 국립한밭대학교 산학협력단 · 기여도 15%</sub>
+### 📑 Co-authored Papers (13)
 
 <details>
-<summary><b>📑 Co-authored Papers (12) — 펼쳐보기</b></summary>
+<summary><b>논문 목록 펼쳐보기</b></summary>
 
 <br>
 
 **2026**
+- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) 추정 오차의 비대칭 전파와 SAC 정책 안정성: 텐던 구동 로봇에서의 사례 분석 · `4th`
 - ![KICS](https://img.shields.io/badge/KICS-0b7285?style=flat-square) 비마르코프 환경의 OQBs 충전 최적화를 위한 LSTM-SAC 프레임워크 · `2nd`
 - ![KICS](https://img.shields.io/badge/KICS-0b7285?style=flat-square) 개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크 · `3rd`
-- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화·FPGA 매핑 적합성 분석 · `2nd`
-- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) 엣지 환경에서의 QEC를 위한 Hybrid 지식 증류 기반 PTQ 경량화 파이프라인 설계 · `3rd`
+- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석 · `2nd`
+- ![IEIE](https://img.shields.io/badge/IEIE-2da44e?style=flat-square) 엣지 환경에서의 QEC를 위한 Hybrid 지식 증류 기반의 PTQ 경량화 파이프라인 설계 · `3rd`
 - ![IJCAI/ECAI](https://img.shields.io/badge/IJCAI%2FECAI-8957e5?style=flat-square) DEPLOY-RL: Active Boundary Discovery & Conservative Certification for Deployable RL in Safety-Critical Continuous Processes · `5th`
-- ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial RL (Oral) · `5th`
+- ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial RL `Oral` · `5th`
 - ![IJCAI](https://img.shields.io/badge/IJCAI-8957e5?style=flat-square) When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control · `3rd`
 - ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data · `4th`
 - ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation · `6th`
@@ -146,6 +148,12 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 - ![KICS](https://img.shields.io/badge/KICS-0b7285?style=flat-square) DBA K-Means 군집화 알고리즘 기반 화공산업 전력 사용량 이상치 탐지 · `2nd`
 
 </details>
+
+### 📝 Patent
+
+- ![Patent](https://img.shields.io/badge/Patent-6e40c9?style=flat-square) ![등록](https://img.shields.io/badge/등록-2ea043?style=flat-square) **커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템**<br/>
+  <sub>등록번호 10-3019388 (2026.09.09) · 출원 10-2025-0162492 · 국립한밭대학교 산학협력단 · 기여도 15%<br/>
+  발명자: 이상금, 박범도, 장현석, 박준성, 허태욱, 정훈</sub>
 
 
 ## 💼 Experience & Activities
@@ -165,6 +173,7 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 
 ## 🏅 Awards & Certifications
 
+- 🏆 **국립한밭대학교 창의적 종합설계 경진대회 장려상**: QEC 온디바이스 AI 가속기 SoC 설계 (박범도, 박준성, 장현석 공동) <sub>(2026.10.15)</sub>
 - 📊 **데이콘 제3회 풍력발전량 예측 AI 경진대회** — 리더보드 **상위 2%** (38위 / 2,195명, private 기준) <sub>(2026.08)</sub>
 - 🏆 **한국통신학회 추계 우수논문상 장려상** — 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 <sub>(2025.11)</sub>
 - 🏆 **한국통신학회 학부생 캡스톤디자인 경진대회 우수상** — 그래프 신경망 기반 강화학습 양자 배터리 초흡수 이득 활용 <sub>(2025.11)</sub>
@@ -199,7 +208,7 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 <div align="center">
 
 <!-- UPDATED:START -->
-<sub>📅 Last updated: 2026-10-14 (KST)</sub>
+<sub>📅 Last updated: 2026-10-29 (KST)</sub>
 <!-- UPDATED:END -->
 
 </div>
