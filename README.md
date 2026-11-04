@@ -113,8 +113,8 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 - ![IJCAI/ECAI](https://img.shields.io/badge/IJCAI%2FECAI-8957e5?style=flat-square) DEPLOY-RL: Active Boundary Discovery & Conservative Certification for Deployable RL in Safety-Critical Continuous Processes · `5th`
 - ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial RL · `5th`
 - ![IJCAI](https://img.shields.io/badge/IJCAI-8957e5?style=flat-square) When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control · `3rd`
-- ![KDD 2026 Workshop (AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `4th`
-- ![KDD 2026 Workshop (AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `6th`
+- ![KDD Workshop(AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `4th`
+- ![KDD Workshop(AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `6th`
 
 **2025**
 - ![Energies](https://img.shields.io/badge/Energies-bf8700?style=flat-square) `SCIE` A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data · `6th`
