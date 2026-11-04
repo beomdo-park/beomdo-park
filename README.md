@@ -113,8 +113,8 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 - ![IJCAI/ECAI](https://img.shields.io/badge/IJCAI%2FECAI-8957e5?style=flat-square) DEPLOY-RL: Active Boundary Discovery & Conservative Certification for Deployable RL in Safety-Critical Continuous Processes · `5th`
 - ![KDD](https://img.shields.io/badge/KDD-1f9e89?style=flat-square) Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial RL · `5th`
 - ![IJCAI](https://img.shields.io/badge/IJCAI-8957e5?style=flat-square) When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control · `3rd`
-- ![KDD Workshop(AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `4th`
-- ![KDD Workshop(AIDataSci)](https://img.shields.io/badge/KDD%202026%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `6th`
+- ![KDD Workshop(AIDataSci)](https://img.shields.io/badge/KDD%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `4th`
+- ![KDD Workshop(AIDataSci)](https://img.shields.io/badge/KDD%20Workshop%20%28AIDataSci%29-1f9e89?style=flat-square) [LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation](https://usail-hkust.github.io/aidatasci/accepted-papers.html) · `6th`
 
 **2025**
 - ![Energies](https://img.shields.io/badge/Energies-bf8700?style=flat-square) `SCIE` A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data · `6th`
@@ -147,6 +147,7 @@ Surface-code 양자오류정정용 **Transformer 디코더(지식증류 student 
 
 ## Awards & Certifications
 
+- 🏆 **컴퓨터공학과 포트폴리오 경진대회 우수상** — 국립한밭대학교 <sub>(2026.11)</sub>
 - 🏆 **국립한밭대학교 창의적 종합설계 경진대회 장려상**: QEC 온디바이스 AI 가속기 SoC 설계 (박범도, 박준성, 장현석 공동) <sub>(2026.10.15)</sub>
 - 📊 **데이콘 제3회 풍력발전량 예측 AI 경진대회** — 리더보드 **상위 2%** (38위 / 2,195명, private 기준) <sub>(2026.08)</sub>
 - 🏆 **한국통신학회 추계 우수논문상 장려상** — 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 <sub>(2025.11)</sub>
